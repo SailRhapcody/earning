@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "com\\earningmillion\\" : "app/"
+    }
+  },
+  "require": {
+    "electrolinux/phpquery" : "0.9.6"
+  }
+}
